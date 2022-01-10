@@ -9,7 +9,7 @@ body{
 	overflow-x: hidden;
 	color: white;
 	font-family: 'Flamenco', cursive;
-	background-color: black;
+	background-color: rgb(216, 211, 211);
 }
 
 header{
@@ -34,10 +34,10 @@ header{
 }
 
 .logo{
-	height: 200px;
-	width: auto;
+	height: 350px;
+	width: 1000px;
 	float: left;
-	margin-top: 20px;	
+	margin-top: 0px;	
 }
 .main-nav{
 	float: right;
@@ -60,7 +60,7 @@ header{
 }
 
 .main-nav li a:hover{
-	border-bottom: 2px solid #e9e6eb; 
+	border-bottom: 2px solid #bf55ec; 
 }
 
 .main-content-header{
